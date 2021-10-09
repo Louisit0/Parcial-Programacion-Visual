@@ -1,0 +1,46 @@
+BODY { 
+    font-family: verdana; 
+}
+
+.titulo {
+    color: #ffffff;
+    margin-top: -8px;
+}
+
+.headerCont {
+    text-align: center;
+}
+
+.textCont {
+    text-align: center;
+}
+
+.imgInicio {
+    margin-bottom: 20px;
+}
+
+.contactoImgCont {
+    margin-top: 50px;
+    margin-right: 10px;
+}
+
+.nav {
+    padding-bottom: 25px;
+}
+
+.nav a {
+    padding-right: 25px;
+}
+
+#contacto {
+    padding-bottom: 10px;
+}
+
+.fondo {
+    background-color: orange;
+}
+
+.field {
+    margin-left: 500px;
+    margin-right: 500px;
+}
